@@ -1,4 +1,4 @@
-# airmiles
+# Airmiles Spring Boot Backend 
 This is the backend spring boot project
 
 Requirements
